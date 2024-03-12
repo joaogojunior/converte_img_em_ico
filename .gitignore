@@ -1,0 +1,5 @@
+/dist/
+/build/
+/venv/
+/converte_img_em_ico.spec
+.idea/

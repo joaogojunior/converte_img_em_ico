@@ -1,0 +1,1 @@
+Conversor simples capaz de converter qualquer formato de imagem suportado pela biblioteca PIL para um arquivo no formato .ico com resolução máxima de 256x256.
